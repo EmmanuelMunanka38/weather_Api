@@ -1,0 +1,7 @@
+making a  simple backend api in cpp challange in 3 days fro handling a simple 
+react website that is a todo websit .
+
+later making my portfolio using React and cpp backend with drogon,.
+
+
+elite challange build a full grade micro services backend app in c++ 

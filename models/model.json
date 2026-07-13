@@ -1,0 +1,30 @@
+{
+    "rdbms": "postgresql",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dbname": "weather_app",
+    "schema": "public",
+    "user": "postgres",
+    "password": "2004",
+    "tables": [],
+    "convert": {
+        "enabled": false,
+        "items": []
+    },
+    "relationships": {
+        "enabled": false,
+        "items": []
+    },
+    "restful_api_controllers": {
+        "enabled": false,
+        "resource_uri": "/*",
+        "class_name": "Restful*Ctrl",
+        "filters": [],
+        "db_client": {
+            "name": "default",
+            "is_fast": false
+        },
+        "directory": "controllers",
+        "generate_base_only": false
+    }
+}
